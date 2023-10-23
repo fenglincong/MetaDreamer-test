@@ -1,6 +1,6 @@
 
 
-# SweetDreamer: Aligning Geometric Priors in 2D Diffusion for Consistent Text-to-3D
+# MetaDreamer: Aligning Geometric Priors in 2D Diffusion for Consistent Text-to-3D
 
 #####  <p align="center"> [Lincong Feng](https://wyysf-98.github.io/), [Muyu Wang](https://aruichen.github.io/), [Xuelin Chen](https://xuelin-chen.github.io/), [Ping Tan](https://ece.hkust.edu.hk/pingtan)</p>
 
