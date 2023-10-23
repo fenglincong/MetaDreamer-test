@@ -8,7 +8,7 @@
   <img src="https://github.com/fenglincong/fenglincong/blob/main/pipeline.png"/>
 </p>
 
-#### <p align="center">[Project Page]([https://github.com/fenglincong/metadreamer3d.github.io/blob/main/](https://sweetdreamer3d.github.io/)) | [ArXiv](https://arxiv.org/abs/2310.02596) | [Paper]() | [Video]()</p>
+#### <p align="center">[Project Page](https://sweetdreamer3d.github.io/) | [ArXiv](https://arxiv.org/abs/2310.02596) | [Paper]() | [Video]()</p>
 
 <p align="center"> All Code will be released soon... 🏗️ 🚧 🔨</p>
 
